@@ -1,0 +1,17 @@
+form{
+    text-align: center;
+    background-color: burlywood;
+}
+.button{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color:bisque ;
+}
+.principal{
+    color: aqua;
+    background-color: aqua;
+}
+.nombre{
+    background-color: bisque;
+}

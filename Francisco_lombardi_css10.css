@@ -1,0 +1,29 @@
+.p{
+    margin: 0 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.h2{
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+td{
+    background-color: white;
+    color:blue;
+    border:solid 1px black;
+    border-collapse: collapse;
+    padding: 8px 4px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 80px;
+}
+.Destacado{
+    background-color: red;
+    color: white;
+}

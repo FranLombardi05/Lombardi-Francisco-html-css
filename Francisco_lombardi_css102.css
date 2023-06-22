@@ -1,0 +1,60 @@
+.p{
+    margin: 0 10px;
+}
+.header{
+    display: flex;
+    justify-content: space-between;
+}
+.pers1{
+    color: black;
+    border-inline-color: white;
+    border-top: white;
+    text-align: center;
+    font-style: italic
+}
+.pers2{  
+    color: black;
+    border-inline-color: white;
+    border-top: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.pers3{
+    color:black;
+    border-inline-color: white;
+    border-top: white;
+    text-align: center;
+    font-style: italic;
+}
+.h2{
+
+    font-size: 25px;
+    font-weight: bold;
+    margin: 0 10px;
+}
+td{
+    background-color: white;
+    color:blue;
+    border:solid 1px black;
+    border-collapse: collapse;
+    padding: 8px 4px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+table{
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 80px;
+}
+.Destacado{
+    background-color: red;
+    color: white;
+}
+.pers11{
+    color: blue;
+    border: solid 1px black;
+    text-align: center;
+    border-collapse: collapse;
+    width: 100%;
+    margin: 0 80px;
+}

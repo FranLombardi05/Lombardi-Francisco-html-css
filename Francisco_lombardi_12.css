@@ -1,0 +1,23 @@
+.principal{
+    background-color: beige;
+    
+}
+td{
+    
+    background: blue;
+}
+.pers1{
+    text-align: left;
+
+}
+.pers2{
+    text-align: center;
+
+}
+.pers3{
+    text-align: right;
+}
+.navbar{
+    font: italic;
+    
+}

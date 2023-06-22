@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<body style="background-color: azure;"></body>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="francisco_lombardi_css11.css" >
+</head>
+
+
+
+<form action="/my-handling-form-page" method="post">
+    <form style="text-align: center;">Formulario de contacto</form>
+    <ul>
+     <li>
+       <p><label for="name" >Nombre:</label></p>
+       <input type="text" id="name" name="user_name">
+     </li>
+     <li>
+       <p><label for="mail">Correo electrónico:</label></p>
+       <input type="email" id="mail" name="user_mail">
+     </li>
+     <li>
+       <p><label for="msg">Mensaje:</label></p>
+       <textarea id="msg" name="user_message"></textarea>
+     </li>
+     <li>
+      <p></p>
+      <label for="sexo">Sexo:</label>
+      <select name="Lenguajes" id="leng">
+      <option value="Generos">Masculino</option>
+      <option value="Generos">Femenino</option>
+      <option value="Generos">No binario</option>
+      </select>
+     </li>
+     <li>
+      <p></p>
+      <label fro="Verificacion">Terminos y condiciones</label>
+      <p><input type="checkbox" id="Ofertas">Acepto recibir ofertas de este sitio</p>
+      <p><input type="checkbox" id="Ofertas">Declaro haber leido los terminos , condiciones y proteccion de datos de este sitio</p>
+
+     </li>
+     <li class="button">
+      <p><button type="submit">enviar</button>
+     </li>
+    </ul>
+   </form>
